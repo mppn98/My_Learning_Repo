@@ -1,0 +1,6 @@
+[submodule "git_yalco_practice"]
+	path = git_yalco_practice
+	url = https://github.com/mppn98/git_yalco_practice.git
+[submodule "C_Lang"]
+	path = C_Lang
+	url = https://github.com/mppn98/C_Lang.git
