@@ -4,3 +4,9 @@
 [submodule "C_Lang"]
 	path = C_Lang
 	url = https://github.com/mppn98/C_Lang.git
+[submodule "Leetcode_new"]
+	path = Leetcode_new
+	url = https://github.com/mppn98/Leetcode.git
+[submodule "Baekjoon"]
+	path = Baekjoon
+	url = https://github.com/mppn98/Baekjoon.git
